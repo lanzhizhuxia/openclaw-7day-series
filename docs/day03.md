@@ -987,7 +987,7 @@ Telegram Group Bot的Session管理和私聊不同。在群组中：
 
 - 每条消息的发送者是独立的用户
 - OpenClaw通过Session Key区分不同用户的上下文
-- 群组的Session Key格式通常是 `telegram:<chatId>:<userId>`
+- 群组的Session Key格式通常是 `telegram:`chatId`:`userId``
 
 这意味着在同一个群里，用户A和用户B @Bot问的问题，Agent分别维护独立的对话上下文。用户A问了三轮的技术问题不会污染用户B的查询。
 
@@ -1010,7 +1010,7 @@ Telegram Group Bot的Session管理和私聊不同。在群组中：
 
 Telegram的超级群（Supergroup）支持Forum Topics——把一个群拆成多个话题板块，类似Discord的频道。
 
-OpenClaw对此有原生支持：当消息来自Forum Topic时，Session Key会自动追加 `:topic:<threadId>`。例如：
+OpenClaw对此有原生支持：当消息来自Forum Topic时，Session Key会自动追加 `:topic:`threadId``。例如：
 
 ```
 普通群消息：  telegram:12345:67890
