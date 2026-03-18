@@ -14,7 +14,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '开始阅读', link: '/day01' },
-      { text: 'GitHub', link: 'https://github.com/ElbertQian/openclaw-7day-series' }
+      { text: 'GitHub', link: 'https://github.com/lanzhizhuxia/openclaw-7day-series' }
     ],
     sidebar: [
       {
@@ -37,7 +37,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ElbertQian/openclaw-7day-series' }
+      { icon: 'github', link: 'https://github.com/lanzhizhuxia/openclaw-7day-series' }
     ],
     footer: {
       message: 'Released under CC BY-SA 4.0 License',
