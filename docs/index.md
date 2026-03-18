@@ -2,8 +2,8 @@
 layout: home
 hero:
   name: "OpenClaw"
-  text: "7天PM深度认知系列"
-  tagline: 从产品视角全方位拆解开源AI Agent网关 · 14万字 · 7篇深度文章
+  text: "7天PM速读指南"
+  tagline: 从PM视角快速建立认知框架 · 7篇概览文章 · 帮你准备产品评审
   actions:
     - theme: brand
       text: 开始阅读 →
@@ -15,47 +15,41 @@ hero:
 features:
   - icon: 🏗️
     title: Day 1 · 全景架构
-    details: OpenClaw是什么？Gateway+LLM+渠道的三明治架构全解
+    details: OpenClaw是什么？Gateway架构速览
     link: /day01
   - icon: ⚙️
     title: Day 2 · 运行机制
-    details: 消息路由、Agent编排、记忆系统的运转逻辑
+    details: 消息路由、Agent编排、记忆系统概览
     link: /day02
   - icon: 🔧
     title: Day 3 · 部署实战
-    details: 从一行docker run到生产级部署的完整链路
+    details: 从docker run到日常使用的完整链路
     link: /day03
   - icon: 🗺️
-    title: Day 4 · 竞品全景
-    details: 12产品×8维度矩阵，找到空白区域
+    title: Day 4 · 竞品概览
+    details: AI Agent工具生态速览
     link: /day04
   - icon: 🔒
     title: Day 5 · 安全信任
-    details: 三档审批、信任四阶段、主动服务的边界
+    details: 审批机制、信任模型、主动服务的边界
     link: /day05
   - icon: 💰
     title: Day 6 · 成本模型
-    details: TCO拆解、Token经济学、商业模式推演
+    details: TCO估算、Token经济学、商业逻辑
     link: /day06
   - icon: 🎯
     title: Day 7 · 决策指南（终章）
-    details: 7大未决问题、Go/No-Go评分卡、产品路线图
+    details: 未决问题、Go/No-Go框架、产品路线图参考
     link: /day07
 ---
 
 <div style="text-align: center; margin-top: 2rem; color: #666;">
 
-### 📊 系列数据
+### 📖 这是什么
 
-**140,000+ 字** · **7 篇深度文章** · **12 个云托管观测点** · **7 大未决问题**
+一份PM视角的速读指南，帮你在准备产品评审前快速了解OpenClaw。
 
----
-
-### 🎯 核心问题
-
-> *"要不要做云托管OpenClaw？"*
-
-这不是一个可以拍脑袋回答的问题。所以我们花了7天，从7个维度做了全景扫描。
+不是深度研究，而是**认知框架的快速搭建**。
 
 ---
 

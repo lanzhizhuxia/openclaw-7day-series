@@ -1,6 +1,6 @@
 # Day 5：安全、信任与主动服务——当AI Agent住进你的电脑（Part 1）
 
-OpenClaw 7天PM深度认知系列 · Day 5
+OpenClaw 7天PM速读指南 · Day 5
 
 📌 数据截止：2026年3月18日
 
@@ -9,7 +9,7 @@ OpenClaw 7天PM深度认知系列 · Day 5
 
 前四天，我们把OpenClaw大卸八块。
 
-Day 1拆骨架——Gateway+LLM+渠道的三明治架构。Day 2拆血管——消息路由、Tool调度、人格系统的运转逻辑。Day 3上手术台——从一行`docker run`到生产级部署的全链路实操。Day 4拉远镜头——把OpenClaw扔进AI Agent行业坐标系，画了一张竞品地图。
+Day 1拆骨架——Gateway+LLM+渠道的三层价值栈。Day 2拆血管——消息路由、Agent编排、记忆系统的运转机制。Day 3上手术台——从一行`docker run`到生产级部署的全链路实操。Day 4拉远镜头——把OpenClaw扔进AI Agent行业坐标系，画了一张竞品地图。
 
 四天下来，你知道它是什么、怎么跑、跟谁竞争。
 

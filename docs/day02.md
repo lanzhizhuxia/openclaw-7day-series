@@ -1,6 +1,6 @@
 Day 2 — 渠道×Agent×记忆三大支柱：拆解 OpenClaw Gateway 的内部运转机制
 
-OpenClaw 7天PM深度认知系列 · Day 2
+OpenClaw 7天PM速读指南 · Day 2
 
 📌 数据截止：2026年3月18日 | 生产方式：OpenClaw Agent + NotebookLM + 人类编辑三方协作 | 全文约18000字
 

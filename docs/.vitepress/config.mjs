@@ -1,13 +1,13 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'OpenClaw 7天PM深度认知系列',
-  description: '从产品视角全方位拆解OpenClaw——一个开源AI Agent网关',
+  title: 'OpenClaw 7天PM速读指南',
+  description: '从PM视角快速建立对OpenClaw的认知框架',
   base: '/openclaw-7day-series/',
   head: [
     ['meta', { name: 'author', content: 'ElbertQian' }],
-    ['meta', { property: 'og:title', content: 'OpenClaw 7天PM深度认知系列' }],
-    ['meta', { property: 'og:description', content: '14万字深度系列：架构、机制、部署、竞品、安全、成本、决策' }],
+    ['meta', { property: 'og:title', content: 'OpenClaw 7天PM速读指南' }],
+    ['meta', { property: 'og:description', content: 'PM视角的速读指南：7天快速建立对OpenClaw的认知框架' }],
   ],
   themeConfig: {
     logo: '/logo.svg',

@@ -1,6 +1,6 @@
 # Day 4：竞品全景与生态定位（Part 1）
 
-OpenClaw 7天PM深度认知系列 · Day 4
+OpenClaw 7天PM速读指南 · Day 4
 
 📌 数据截止：2026年3月18日
 
@@ -9,7 +9,7 @@ OpenClaw 7天PM深度认知系列 · Day 4
 
 前三天，我们把OpenClaw拆了个底朝天。
 
-Day 1看骨架——Gateway+LLM+渠道的三明治架构。Day 2看血管——消息路由、Tool调度、安全沙箱的运转机制。Day 3动手术——从一行`docker run`到生产级部署的完整链路。三天下来，你对OpenClaw"是什么、怎么跑"应该已经有了手感。
+Day 1看骨架——Gateway+LLM+渠道的三层价值栈。Day 2看血管——消息路由、Agent编排、记忆系统的运转机制。Day 3动手术——从一行`docker run`到生产级部署的完整链路。三天下来，你对OpenClaw"是什么、怎么跑"应该已经有了手感。
 
 但产品经理不能只盯着自家后院。
 
