@@ -115,6 +115,41 @@
   margin-top: 12px;
 }
 
+/* ===== Article Content ===== */
+
+/* PM Takeaway custom container — uses VitePress ::: tip */
+.vp-doc .custom-block.tip {
+  border-color: var(--vp-c-brand-1);
+  background-color: var(--vp-c-brand-soft);
+  border-radius: 8px;
+  padding: 20px 24px;
+}
+
+.dark .vp-doc .custom-block.tip {
+  background-color: rgba(99, 102, 241, 0.08);
+}
+
+.vp-doc .custom-block.tip .custom-block-title {
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.02em;
+}
+
+/* Article typography */
+.vp-doc h2 {
+  border-top: none;
+  padding-top: 32px;
+  margin-top: 48px;
+}
+
+/* Remove excessive hr spacing */
+.vp-doc hr {
+  margin: 32px 0;
+  border-color: var(--vp-c-divider);
+  opacity: 0.5;
+}
+
 /* ===== Footer ===== */
 .VPFooter {
   border-top: 1px solid var(--vp-c-divider) !important;
