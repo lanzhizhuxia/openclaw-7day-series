@@ -20,10 +20,10 @@ export default defineConfig({
       {
         text: '📚 系列文章',
         items: [
-          { text: 'Day 1 · 全景：Gateway架构', link: '/day01' },
+          { text: 'Day 1 · 全景：Gateway架构与产品视角', link: '/day01' },
           { text: 'Day 2 · 三大支柱：渠道×Agent×记忆', link: '/day02' },
           { text: 'Day 3 · 部署实战：从零到日常', link: '/day03' },
-          { text: 'Day 4 · 竞品全景：12×8矩阵', link: '/day04' },
+          { text: 'Day 4 · 竞品全景：12×8矩阵与生态定位', link: '/day04' },
           { text: 'Day 5 · 安全、信任与主动服务', link: '/day05' },
           { text: 'Day 6 · 成本模型与商业逻辑', link: '/day06' },
           { text: 'Day 7 · 云托管决策指南（终章）', link: '/day07' },

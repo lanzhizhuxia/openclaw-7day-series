@@ -1,4 +1,4 @@
-# Day 1 — 全景：从产品视角理解 AI Agent 网关
+# Day 1 — 全景：Gateway架构与产品视角
 
 📌 数据截止：2026年3月18日 | 生产方式：OpenClaw Agent + NotebookLM + 人类编辑三方协作
 

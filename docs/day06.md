@@ -1,4 +1,4 @@
-# Day 6 — 成本模型与商业逻辑：给AI Agent算一笔明白账
+# Day 6 — 成本模型与商业逻辑
 
 📌 数据截止：2026年3月18日 | 生产方式：OpenClaw Agent + NotebookLM + 人类编辑三方协作
 
