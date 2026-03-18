@@ -1,6 +1,8 @@
-# OpenClaw 7天PM速读指南 · Day 1
+# Day 1 — 全景：从产品视角理解 AI Agent 网关
 
-## 📌 编者按
+📌 数据截止：2026年3月18日 | 生产方式：OpenClaw Agent + NotebookLM + 人类编辑三方协作
+
+## 编者按
 
 这不是一篇安利文。
 
