@@ -1,0 +1,16 @@
+{
+  "name": "openclaw-7day-series",
+  "version": "1.0.0",
+  "description": "OpenClaw 7天PM深度认知系列 — 从产品视角全方位拆解开源AI Agent网关",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": ["openclaw", "ai-agent", "product-management", "deep-dive"],
+  "author": "ElbertQian",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
