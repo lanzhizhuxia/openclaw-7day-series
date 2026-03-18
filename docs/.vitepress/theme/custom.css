@@ -251,6 +251,11 @@
 
 .vp-doc strong {
   font-weight: 600;
+  color: var(--vp-c-text-1);
+}
+
+.dark .vp-doc strong {
+  color: #e2e8f0;
 }
 
 .vp-doc table {
