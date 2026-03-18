@@ -136,6 +136,49 @@
   letter-spacing: 0.02em;
 }
 
+/* PM旁注 custom container — uses VitePress ::: warning (amber/⚡ theme) */
+.vp-doc .custom-block.warning {
+  border-color: #d97706;
+  background-color: rgba(217, 119, 6, 0.06);
+  border-radius: 8px;
+  padding: 16px 20px;
+  border-left: 3px solid #d97706;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+}
+
+.dark .vp-doc .custom-block.warning {
+  border-color: #f59e0b;
+  background-color: rgba(245, 158, 11, 0.06);
+}
+
+.vp-doc .custom-block.warning .custom-block-title {
+  color: #d97706;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.01em;
+}
+
+.dark .vp-doc .custom-block.warning .custom-block-title {
+  color: #fbbf24;
+}
+
+.vp-doc .custom-block.warning a,
+.vp-doc .custom-block.warning code {
+  color: #b45309;
+}
+
+.dark .vp-doc .custom-block.warning a,
+.dark .vp-doc .custom-block.warning code {
+  color: #fbbf24;
+}
+
+/* Adjacent containers — reduce gap when stacked */
+.vp-doc .custom-block + .custom-block {
+  margin-top: 12px;
+}
+
 /* Article typography */
 .vp-doc h2 {
   border-top: none;
